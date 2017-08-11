@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Smartly.io Careers Fast Track</title>
+</head>
+<body style="font-family: Verdana, Geneva, sans-serif">
+    <img alt="Logo_Smartly_Blue_320x70" src="https://www.smartly.io/hs-fs/hubfs/Logos_and_graphics/Logo_Smartly_Blue_320x70.png?t=1498051906855&amp;width=160&amp;name=Logo_Smartly_Blue_320x70.png" title="Logo_Smartly_Blue_320x70" width="160" data-constrained="true" style="width: 160px;" caption="false" srcset="https://www.smartly.io/hs-fs/hubfs/Logos_and_graphics/Logo_Smartly_Blue_320x70.png?t=1498051906855&amp;width=80&amp;name=Logo_Smartly_Blue_320x70.png 80w, https://www.smartly.io/hs-fs/hubfs/Logos_and_graphics/Logo_Smartly_Blue_320x70.png?t=1498051906855&amp;width=160&amp;name=Logo_Smartly_Blue_320x70.png 160w, https://www.smartly.io/hs-fs/hubfs/Logos_and_graphics/Logo_Smartly_Blue_320x70.png?t=1498051906855&amp;width=240&amp;name=Logo_Smartly_Blue_320x70.png 240w, https://www.smartly.io/hs-fs/hubfs/Logos_and_graphics/Logo_Smartly_Blue_320x70.png?t=1498051906855&amp;width=320&amp;name=Logo_Smartly_Blue_320x70.png 320w, https://www.smartly.io/hs-fs/hubfs/Logos_and_graphics/Logo_Smartly_Blue_320x70.png?t=1498051906855&amp;width=400&amp;name=Logo_Smartly_Blue_320x70.png 400w, https://www.smartly.io/hs-fs/hubfs/Logos_and_graphics/Logo_Smartly_Blue_320x70.png?t=1498051906855&amp;width=480&amp;name=Logo_Smartly_Blue_320x70.png 480w" sizes="(max-width: 160px) 100vw, 160px">
+    <p>This is the start of a puzzle that you can complete to show us just how great you are. We hope you enjoy!</p>
+
+    <p>Request JSON content to get started.</p>
+    <p>(If that doesn't make any sense, check out also <a href="http://smartly.io/careers">http://smartly.io/careers</a>)</p>
+
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','//connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1533826983519623');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1533826983519623&ev=PageView&noscript=1"
+    /></noscript>
+</body>
+</html>
